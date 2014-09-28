@@ -1,0 +1,62 @@
+Params:
+Remove 0.4 worst
+Merge 0.2 best
+Mutate 0.1 players
+Max 60 moves per player before draw
+Players: 10
+Rounds: 10
+Display 3 best players per round
+Allowed time per move: 100 ms
+
+Round 1 best playes:
+1.	NaiveHeuristic
+	King value: 1.3426739
+
+2.	NaiveHeuristic
+	King value: 1.5306771
+
+3.	PositionalHeuristic
+	King value: 1.0085094
+	Row coefficient: 0.009300485
+	Negative row coefficient: 2.760917E-4
+	Center rows king addition: 0.047182392
+	Center columns king addition: 0.0063624023
+
+
+Round 2 best playes:
+1.	NaiveHeuristic
+	King value: 2.0
+
+2.	NaiveHeuristic
+	King value: 1.4125626
+
+3.	PositionalHeuristic
+	King value: 1.0085094
+	Row coefficient: 0.009300485
+	Negative row coefficient: 2.760917E-4
+	Center rows king addition: 0.047182392
+	Center columns king addition: 0.0063624023
+
+
+Round 3 best playes:
+1.	NaiveHeuristic
+	King value: 2.0
+
+2.	NaiveHeuristic
+	King value: 1.8432465
+
+3.	NaiveHeuristic
+	King value: 0.90850127
+
+
+Round 4 best playes:
+1.	NaiveHeuristic
+	King value: 2.0
+
+2.	NaiveHeuristic
+	King value: 0.90850127
+
+3.	NaiveHeuristic
+	King value: 1.8432465
+
+
